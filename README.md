@@ -30,7 +30,7 @@ Text analytics pipeline for audiobook data. Integrated transcription, NER, and s
 
 
 ## 📫 Let’s Connect
-💌 shuwuyou2002@gmail.com | [LinkedIn](https://linkedin.com/in/tony-shu-38ab8b233) | [Tableau Public](https://public.tableau.com/app/profile/tonyshu)
+💌 shuwuyou2002@gmail.com | [LinkedIn](https://linkedin.com/in/tony-shu-38ab8b233) | [Tableau Public](https://public.tableau.com/app/profile/tony.shu6006)
 
 
 <!--
