@@ -10,8 +10,6 @@ I'm a **Full-stack Data Scientist** with 5 years of hands-on experience in machi
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
 **Languages:** Python, SQL, R, VBA, JavaScript, HTML/CSS, Excel, LaTeX  
 **Libraries:** PyTorch, TensorFlow, SciPy, Scikit-Learn, XGBoost, LightGBM, CatBoost, Optuna, SHAP, tsfresh, UMAP, HDBSCAN, Prophet, NumPy, Pandas, Matplotlib, Seaborn
 **Data Engineering:** PySpark, Databricks, Snowflake, AWS, Airflow, Spark, Hadoop
