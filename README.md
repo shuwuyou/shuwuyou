@@ -20,7 +20,17 @@ I'm a **Full-stack Data Scientist** with 5 years of hands-on experience in machi
 **Databases:** Snowflake, MySQL, PostgreSQL, SQLite, MongoDB, NoSQL, Microsoft SQL Server  
 **Tools:** Docker, Git, GitHub Actions, Jupyter Notebook, Benthic Golden, CRM, Hive  
 
-  
+## Repo Highlights
+🏆 **Future_Star** — [GitHub Repo](https://github.com/ShioHuang815/Future_Star)  
+Third Place @Northwestern AI Hackathon  
+AI-powered football player–matching system using K-Transformer and autoencoder models to align young athletes with pro-player archetypes. Delivered an interactive web app for performance visualization and talent scouting.
+🎧 **LibriSpeech Text Summarization** — [GitHub Repo](https://github.com/shuwuyou/LibriSpeechTextSummarization)  
+Text analytics pipeline for audiobook data. Integrated transcription, NER, and summarization modules to automatically generate concise summaries from LibriSpeech datasets.
+
+
+## 📫 Let’s Connect
+💌 shuwuyou2002@gmail.com | [LinkedIn](https://linkedin.com/in/tony-shu-38ab8b233) | [Tableau Public](https://public.tableau.com/app/profile/tonyshu)
+
 
 <!--
 **shuwuyou/shuwuyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
