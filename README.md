@@ -28,6 +28,9 @@ AI-powered football player–matching system using K-Transformer and autoencoder
 - 🎧 **LibriSpeech Text Summarization** — [GitHub Repo](https://github.com/shuwuyou/LibriSpeechTextSummarization)  
 Text analytics pipeline for audiobook data. Integrated transcription, NER, and summarization modules to automatically generate concise summaries from LibriSpeech datasets.
 
+- 🤖 **SocialSenseAI** — [GitHub Repo](https://github.com/shuwuyou/socialsenseai)  
+Advanced multi-agent RAG system integrating Pinecone, LangGraph, and OpenAI APIs. Features a LoRA fine-tuned T5 summarization agent that generates contextualized answers from retrieved data. Deployed via Flask web app and Dockerized for scalable deployment.
+
 
 ## 📫 Let’s Connect
 💌 shuwuyou2002@gmail.com | [LinkedIn](https://linkedin.com/in/tony-shu-38ab8b233) | [Tableau Public](https://public.tableau.com/app/profile/tony.shu6006)
