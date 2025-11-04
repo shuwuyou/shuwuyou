@@ -23,7 +23,7 @@ I'm a **Full-stack Data Scientist** with 5 years of hands-on experience in machi
 
 ## Repo Highlights
 - 🏆 **Future_Star** — [GitHub Repo](https://github.com/ShioHuang815/Future_Star)  
-Third Place @Northwestern AI Hackathon  
+**Third Place @Northwestern AI Hackathon**  
 AI-powered football player–matching system using K-Transformer and autoencoder models to align young athletes with pro-player archetypes. Delivered an interactive web app for performance visualization and talent scouting.
 
 - 🎧 **LibriSpeech Text Summarization** — [GitHub Repo](https://github.com/shuwuyou/LibriSpeechTextSummarization)  
