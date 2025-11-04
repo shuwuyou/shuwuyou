@@ -10,15 +10,16 @@ I'm a **Full-stack Data Scientist** with 5 years of hands-on experience in machi
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, SQL, R, VBA, JavaScript, HTML/CSS, Excel, LaTeX  
-**Libraries:** PyTorch, TensorFlow, SciPy, Scikit-Learn, XGBoost, LightGBM, CatBoost, Optuna, SHAP, tsfresh, UMAP, HDBSCAN, Prophet, NumPy, Pandas, Matplotlib, Seaborn
-**Data Engineering:** PySpark, Databricks, Snowflake, AWS, Airflow, Spark, Hadoop
-**Visualization:** Tableau, Power BI, Plotly, Dash, Flask  
-**Optimization:** GurobiPy, PuLP, OpenSolver  
-**Automation:** Selenium, BeautifulSoup, OpenPyXL, Regex, VBA  
-**AI Agents & NLP:** LangGraph, Transformers, LoRA, T5, Pinecone  
-**Databases:** Snowflake, MySQL, PostgreSQL, SQLite, MongoDB, NoSQL, Microsoft SQL Server  
-**Tools:** Docker, Git, GitHub Actions, Jupyter Notebook, Benthic Golden, CRM, Hive  
+**Languages:** Python, SQL, R, VBA, JavaScript, HTML/CSS, Excel, LaTeX<br>
+**Libraries:** PyTorch, TensorFlow, SciPy, Scikit-Learn, XGBoost, LightGBM, CatBoost, Optuna, SHAP, tsfresh, UMAP, HDBSCAN, Prophet, NumPy, Pandas, Matplotlib, Seaborn<br>
+**Data Engineering:** PySpark, Databricks, Snowflake, AWS, Airflow, Spark, Hadoop<br>
+**Visualization:** Tableau, Power BI, Plotly, Dash, Flask<br>
+**Optimization:** GurobiPy, PuLP, OpenSolver<br>
+**Automation:** Selenium, BeautifulSoup, OpenPyXL, Regex, VBA<br>
+**AI Agents & NLP:** LangGraph, Transformers, LoRA, T5, Pinecone<br>
+**Databases:** Snowflake, MySQL, PostgreSQL, SQLite, MongoDB, NoSQL, Microsoft SQL Server<br>
+**Tools:** Docker, Git, GitHub Actions, Jupyter Notebook, Benthic Golden, CRM, Hive
+ 
 
 ## Repo Highlights
 - 🏆 **Future_Star** — [GitHub Repo](https://github.com/ShioHuang815/Future_Star)  
