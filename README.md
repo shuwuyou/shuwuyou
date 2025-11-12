@@ -18,7 +18,7 @@ I'm a **Full-stack Data Scientist** with 5 years of hands-on experience in machi
 **Automation:** Selenium, BeautifulSoup, OpenPyXL, Regex, VBA<br>
 **AI Agents & NLP:** LangGraph, Transformers, LoRA, T5, Pinecone<br>
 **Databases:** Snowflake, MySQL, PostgreSQL, SQLite, MongoDB, NoSQL, Microsoft SQL Server<br>
-**Tools:** Docker, Git, GitHub Actions, Jupyter Notebook, Benthic Golden, CRM, Hive, Snowflake
+**Tools:** Docker, Git, GitHub Actions, Jupyter Notebook, Benthic Golden, CRM, Hive, Snowflake, Fivetran, dbt
  
 
 ## Repo Highlights
