@@ -22,7 +22,7 @@ I'm a **Full-stack Data Scientist** with 5 years of hands-on experience in machi
  
 
 ## Repo Highlights
-- 🏆 **Future_Star** — [GitHub Repo](https://github.com/shuwuyou/alexiu)  
+- 🏆 **Alexiu** — [GitHub Repo](https://github.com/shuwuyou/alexiu)  
 **First Place @Northwestern AI Hackathon 2025**  
 An intelligent, fully automated scouting platform combining machine learning, time-series analytics, and multi-agent generative AI to produce professional-grade player reports instantly.
 
