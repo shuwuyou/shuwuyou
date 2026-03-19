@@ -16,7 +16,7 @@ I'm a **Full-stack Data Scientist** with years of hands-on experience in machine
 **Visualization:** Tableau, Power BI, Plotly, Dash, Flask<br>
 **Optimization:** GurobiPy, PuLP, OpenSolver<br>
 **Automation:** Selenium, BeautifulSoup, OpenPyXL, Regex, VBA<br>
-**AI Agents & NLP:** LangGraph, Transformers, LoRA, T5, Pinecone<br>
+**AI Agents & NLP:** LangGraph, Transformers, LoRA, T5, Pinecone | Windsurf, Cursor, CodeX, ClaudeCode, Copilot<br>
 **Databases:** Snowflake, MySQL, PostgreSQL, SQLite, MongoDB, NoSQL, Microsoft SQL Server<br>
 **Tools:** Docker, Git, GitHub Actions, Jupyter Notebook, Benthic Golden, CRM, Hive, Snowflake, Fivetran, dbt
  
